@@ -6,7 +6,7 @@ import {
   TextInput,
   TouchableOpacity,
   Image,
-  Alert
+  dqadasfadasrQWEDARFVCvQFCB
 } from 'react-native';
 import { Header } from 'react-native-elements';
 import db from './localdb';
